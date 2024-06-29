@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @pranjaldeo
-- 👀 I’m interested in Computer Programming & learning new Skills
-- 🌱 I’m currently learning Bsc-Cs
-- Currently working on developing my own skills
+Hi, I’m @pranjaldeo
 
-<!---
-pranju-deo/pranju-deo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 Passionate about Computer Programming and constantly learning new skills.
+
+🎓 I’m a B.Sc. Computer Science graduate with a keen interest in becoming a full-stack Java developer.
+
+🚀 I’m actively working on developing my skills through various projects, including creating interactive real-time chat applications and issue tracker systems.
+
+🛠️ My current projects involve technologies such as Node.js, ExpressJS, Socket.io, MongoDB, and EJS.
